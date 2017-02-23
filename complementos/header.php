@@ -139,8 +139,8 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo" class="hidden-xs hidden-sm">
-						<a href="?view=index" class="standard-logo" data-dark-logo="images/logoturismo.png"><img src="images/logoturismo.png" alt="Canvas Logo"></a>
-						<a href="?view=index" class="retina-logo" data-dark-logo="images/logoturismo.png"><img src="images/logoturismo.png" alt="Canvas Logo"></a>
+						<a href="index.php" class="standard-logo" data-dark-logo="images/logoturismo.png"><img src="images/logoturismo.png" alt="Canvas Logo"></a>
+						<a href="index.php" class="retina-logo" data-dark-logo="images/logoturismo.png"><img src="images/logoturismo.png" alt="Canvas Logo"></a>
 						</div><!-- #logo end -->
 						
 					</div>
